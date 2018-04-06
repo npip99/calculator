@@ -1,0 +1,19 @@
+﻿Build started 11/9/2012 8:51:13 AM.
+Project "C:\Users\Nick\Documents\Programming\C++\Framework\Framework\Framework.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\Framework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+ResourceCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+  Framework.vcxproj -> C:\Users\Nick\Documents\Programming\C++\Framework\Debug\Framework.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\Framework.unsuccessfulbuild".
+  Touching "Debug\Framework.lastbuildstate".
+Done Building Project "C:\Users\Nick\Documents\Programming\C++\Framework\Framework\Framework.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
