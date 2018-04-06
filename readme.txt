@@ -54,3 +54,11 @@ DINMOUSESTATE struct you will also have a BYTE array named 'rgbButtons'. [0] is 
 
   Good luck programming!
     ~Nick
+  
+  
+ 2018 UPDATE:
+ 
+ The above was written Oct 28, 2012, apparently to teach someone how to use the framework. Not sure who though.
+ 
+ Feels good to look back on notes from middle school, but the code is lost :(
+ Obj files are intact, so reversing is possible, but blah. Doesn't work on my Windows 10, calculator pops up as in the screenshot, but immediately goes to black. It does seem to work on Windows XP, and it should work on Win7 but I haven't tried it. As far as memory goes, it converts the string to reverse polish, then parses the post-fix notation.
